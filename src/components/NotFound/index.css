@@ -1,0 +1,22 @@
+.container {
+  background-color: #e0eefe;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.heading {
+  color: #5a7184;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.paragraph {
+  color: #5a7184;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+.not-found-image {
+  height: 50vh;
+}
