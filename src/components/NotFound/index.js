@@ -1,6 +1,7 @@
 import './index.css'
 
-const NotFound = () => (
+const NotFound = () => { 
+  return ( 
   <div className="not-found-container">
     <img
       src="https://assets.ccbp.in/frontend/react-js/ebank-not-found-img.png"
@@ -13,5 +14,6 @@ const NotFound = () => (
     </p>
   </div>
 )
+}
 
 export default NotFound
